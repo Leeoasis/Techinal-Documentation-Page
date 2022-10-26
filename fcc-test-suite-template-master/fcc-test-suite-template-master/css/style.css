@@ -1,8 +1,9 @@
 body {
     background-color: black;
-    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
 }
+
 h1 {
     color: yellow;
-    
 }
